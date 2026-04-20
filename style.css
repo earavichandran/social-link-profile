@@ -116,3 +116,10 @@ body {
   background-color: var(--color-green);
   color: var(--color-grey-900);
 }
+
+@media (max-width: 375px) {
+  .container {
+    width: 327px;
+    padding: 1.5rem;
+  }
+}
