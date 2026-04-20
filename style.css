@@ -112,10 +112,13 @@ body {
   font-weight: var(--fw-bold);
 }
 
-.btn:focus,
-.bt:active,
-.btn:focus-visible,
 .btn:hover {
+  background-color: var(--color-green);
+  color: var(--color-grey-900);
+}
+.btn:focus,
+.btn:active,
+.btn:focus-visible {
   background-color: var(--color-green);
   color: var(--color-grey-900);
 }
