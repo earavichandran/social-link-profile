@@ -29,7 +29,7 @@ Social profile link challenge
 ### Links
 
 - Solution URL: [Social link profile](https://github.com/earavichandran/social-link-profile)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL(Vercel): [Social link profile](https://social-link-profile-two-sable.vercel.app/)
 
 ## My process
 
